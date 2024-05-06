@@ -7,6 +7,6 @@ public class test {
 
     //b
     public void f(){
-
+        System.out.println(2);
     }
 }
